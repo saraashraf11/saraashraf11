@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/file/d/1rg-23I3nHO9nFTDD2d_uQnfLEuBtBmoX/view?usp=drivesdk"  alt = "gif" />
-<video src="https://drive.google.com/file/d/1rg-23I3nHO9nFTDD2d_uQnfLEuBtBmoX/view?usp=drivesdk"></video>
 
 ### Hello, I'm Sara Ashraf 🤍
 #### Mobile App Developer👩🏻‍💻
