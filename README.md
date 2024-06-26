@@ -16,6 +16,7 @@ Skills:
 * Chat GPT 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT106U6e6eCK-gsUl6hMSgWrxbYS6H2R4HGrA&usqp=CAU"  alt = "gif" />
+
 - 🔭 I’m currently working on Android/Kotlin 
 - 🌱 I’m currently learning Kotlin  
 - 👯 I’m looking to collaborate on Android Projects 
