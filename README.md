@@ -5,7 +5,15 @@
 
 I am an undergrad student.
 
-Skills: Java / C++ / C / HTML / CSS / Python / Chat GPT 
+Skills:
+* Kotlin
+* Java
+* C++
+* C
+* HTML
+* CSS
+* Python
+* Chat GPT 
 
 - 🔭 I’m currently working on Android/Kotlin 
 - 🌱 I’m currently learning Kotlin  
