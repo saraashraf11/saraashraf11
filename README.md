@@ -1,4 +1,5 @@
-<video src="WhatsApp Video 2024-06-26 at 19.17.59_a968da2f.mp4"></video>
+<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT106U6e6eCK-gsUl6hMSgWrxbYS6H2R4HGrA&usqp=CAU"  alt = "gif" />"  alt = "gif" />
+
 ### Hello, I'm Sara Ashraf 🤍
 #### Mobile App Developer👩🏻‍💻
 ![Mobile App Developer👩🏻‍💻](https://img.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_138676-2398.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user)
