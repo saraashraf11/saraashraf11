@@ -1,4 +1,4 @@
-<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT106U6e6eCK-gsUl6hMSgWrxbYS6H2R4HGrA&usqp=CAU"  alt = "gif" />"  alt = "gif" />
+<img src="https://drive.google.com/file/d/1rg-23I3nHO9nFTDD2d_uQnfLEuBtBmoX/view?usp=drivesdk"  alt = "gif" />
 
 ### Hello, I'm Sara Ashraf 🤍
 #### Mobile App Developer👩🏻‍💻
