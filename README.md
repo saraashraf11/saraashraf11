@@ -24,7 +24,8 @@ Skills:
 - 📫 How to reach me: saraashraf1822004@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saraashraf11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sara-ashraf-8b7865257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saraashraf11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sara-ashraf-8b7865257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraashraf11)](https://github.com/anuraghazra/github-readme-stats)
 
