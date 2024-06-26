@@ -15,6 +15,8 @@ Skills:
 * Python
 * Chat GPT 
 
+< img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fandroid-gifs&psig=AOvVaw2zAI42ruVrz2VLFhfGPkAH&ust=1719452712702000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIic4NOS-IYDFQAAAAAdAAAAABAH" alt = "gif" />
+
 - 🔭 I’m currently working on Android/Kotlin 
 - 🌱 I’m currently learning Kotlin  
 - 👯 I’m looking to collaborate on Android Projects 
