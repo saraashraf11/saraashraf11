@@ -13,7 +13,10 @@ Skills:
 * HTML
 * CSS
 * Python
-* Chat GPT 
+* Chat GPT
+* Communication & Interpersonal Skills
+* Effective Self-Management & Time Management
+* Adaptability & Continuous Learning
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT106U6e6eCK-gsUl6hMSgWrxbYS6H2R4HGrA&usqp=CAU"  alt = "gif" />
 
